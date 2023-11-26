@@ -64,9 +64,9 @@
           Connect with Me:
         </div>
         <div class="col-lg-7 col-md-6">
-          <a href="#"><i class="fab fa-twitter"></i></a>
-          <a href="#"><i class="fab fa-github"></i></a>
-          <a href="#"><i class="fab fa-linkedin"></i></a>
+          <a href="{{asset('https://twitter.com/romel_mahmud')}}" target="_blank"><i class="fab fa-twitter"></i></a>
+          <a href="{{asset('https://github.com/romelmahmud')}}" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="{{asset('https://www.linkedin.com/in/romelmahmud/')}}" target="_blank"><i class="fab fa-linkedin"></i></a>
         </div>
       </div>
     </div>
@@ -80,7 +80,7 @@
       <div class="row text-center text-white">
         <div class="col-12">
           <div class="footer-bottom__copyright">
-            &COPY; Copyright & Created by <a href="http://codewithpatrick.com" target="_blank">Romel Mahmud</a>
+            &COPY; Copyright & Created by <a href="{{asset('https://github.com/romelmahmud')}}" target="_blank">Romel Mahmud</a>
           </div>
         </div>
       </div>
